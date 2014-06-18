@@ -1,0 +1,9 @@
+[submodule ".vim"]
+	path = .vim
+	url = git@github.com:wblankenship/vim.git
+[submodule ".zsh"]
+	path = .zsh
+	url = git@github.com:wblankenship/zsh.git
+[submodule ".xterm"]
+	path = .xterm
+	url = git@github.com:wblankenship/xterm.git
